@@ -79,3 +79,19 @@
         - 제목((1))  
         - 제목((2))  
 ---
+
+# 3. 코드블럭
+
+* 입력
+```
+```py
+for i in range(10):
+    print(i)
+```
+```
+
+* 출력
+```python
+for i in range(10):
+    print(i)
+```
