@@ -81,19 +81,17 @@
 ---
 
 # 3. 코드블럭
+```
+　``` c  
+  int num=10;  
+　```
+```
 
-* 입력
-```
-```py
-for i in range(10):
-    print(i)
-```
-```
 
 * 출력
-```c
+``` c
 int num=10;
 for (int i; i<10; i++) {
-    cout<<i<<
+    cout<<i<<endl;
 }
 ```
