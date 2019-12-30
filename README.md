@@ -91,7 +91,9 @@ for i in range(10):
 ```
 
 * 출력
-```python
-for i in range(10):
-    print(i)
+```c
+int num=10;
+for (int i; i<10; i++) {
+    cout<<i<<
+}
 ```
